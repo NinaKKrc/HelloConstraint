@@ -31,3 +31,8 @@ Aplikacija vsebuje tudi postavitve za pokončni (`layout`), ležeči (`layout-la
 **5. Kateri pristop je učinkovitejši za spreminjanje barve gumba Count?**
 
 **b)** Uporaba parametra `view` in metode `setBackgroundColor()`, saj ni treba ponovno iskati gumba z `findViewById()`.
+
+## Končni izdelek
+
+<img width="250" height="500" alt="hello_constraint_portrait_small" src="https://github.com/user-attachments/assets/e256babb-3581-41dd-8821-6eac9bc8ce4d" />
+<img width="500" height="193" alt="hello_constraint_landscape_small" src="https://github.com/user-attachments/assets/20c8c737-2889-4a23-8d96-167f7bd1702a" />
